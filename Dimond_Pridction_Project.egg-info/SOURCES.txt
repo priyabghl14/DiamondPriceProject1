@@ -1,3 +1,4 @@
+README.md
 setup.py
 Dimond_Pridction_Project.egg-info/PKG-INFO
 Dimond_Pridction_Project.egg-info/SOURCES.txt
@@ -5,3 +6,16 @@ Dimond_Pridction_Project.egg-info/dependency_links.txt
 Dimond_Pridction_Project.egg-info/requires.txt
 Dimond_Pridction_Project.egg-info/top_level.txt
 src/__init__.py
+src/utils.py
+src/Dimond_Pridiction_Project/__init__.py
+src/Dimond_Pridiction_Project/exception.py
+src/Dimond_Pridiction_Project/logger.py
+src/Dimond_Pridiction_Project/utils.py
+src/Dimond_Pridiction_Project/components/__init__.py
+src/Dimond_Pridiction_Project/components/data_ingestion.py
+src/Dimond_Pridiction_Project/components/data_transformation.py
+src/Dimond_Pridiction_Project/components/model_monitering.py
+src/Dimond_Pridiction_Project/components/model_trainer.py
+src/Dimond_Pridiction_Project/pipelines/__init__.py
+src/Dimond_Pridiction_Project/pipelines/prediction_pipeline.py
+src/Dimond_Pridiction_Project/pipelines/training_pipeline.py

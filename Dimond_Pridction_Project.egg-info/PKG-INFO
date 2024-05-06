@@ -6,3 +6,6 @@ Author-email: priyabghl14@gmail.com
 Requires-Dist: pandas
 Requires-Dist: numpy
 Requires-Dist: flask
+Requires-Dist: python-dotenv
+Requires-Dist: mysql_connector-python
+Requires-Dist: pymysql

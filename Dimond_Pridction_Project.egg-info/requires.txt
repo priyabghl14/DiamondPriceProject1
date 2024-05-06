@@ -1,3 +1,6 @@
 pandas
 numpy
 flask
+python-dotenv
+mysql_connector-python
+pymysql
